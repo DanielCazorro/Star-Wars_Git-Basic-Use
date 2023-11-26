@@ -20,6 +20,5 @@ Para aprender más sobre Git, GitHub y otros aspectos del desarrollo de software
 
 - [Documentación oficial de Git](https://git-scm.com/doc)
 - [Guía de GitHub](https://guides.github.com/)
-- [Curso de Git en Codecademy](https://www.codecademy.com/learn/learn-git)
 
 ¡Que la fuerza te acompañe en tu aprendizaje de Git y desarrollo de proyectos!
